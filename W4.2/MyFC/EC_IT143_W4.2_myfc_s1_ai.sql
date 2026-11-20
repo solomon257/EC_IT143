@@ -1,0 +1,2 @@
+-- Step 1: Start with a question
+-- Question: What is the total player salary per month?

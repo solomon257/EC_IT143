@@ -1,0 +1,5 @@
+-- Step 2: Begin creating an answer
+-- Where I am: Planet_Express holds one card transaction per row with Card_Member and Amount.
+-- Next step: group transactions by Card_Member and add up Amount.
+-- Sub-answer 1: total Amount for each Card_Member (net of credits).
+-- Sub-answer 2: store that result so it can be reloaded on demand.

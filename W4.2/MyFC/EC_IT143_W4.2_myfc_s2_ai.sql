@@ -1,0 +1,5 @@
+-- Step 2: Begin creating an answer
+-- Where I am: tblPlayerFact holds one salary row per player per as_of_date.
+-- Next step: group the fact table by as_of_date and add up mtd_salary.
+-- Sub-answer 1: total mtd_salary for each as_of_date.
+-- Sub-answer 2: store that result so it can be reloaded on demand.
